@@ -617,7 +617,7 @@
        inkscape:menu="Shadows and Glows"
        inkscape:menu-tooltip="Cut out, add inner shadow and colorize some parts of an image"
        style="color-interpolation-filters:sRGB;"
-       inkscape:label="Emergence"
+       inkscape:label="Drop Shadow"
        id="filter1366">
       <feColorMatrix
          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "
@@ -677,8 +677,41 @@
       <feComposite
          in2="SourceGraphic"
          operator="in"
-         result="result7"
+         result="fbSourceGraphic"
          id="feComposite1364" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1380" />
+      <feFlood
+         id="feFlood1382"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1384"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur1386"
+         in="composite1"
+         stdDeviation="13.8138"
+         result="blur" />
+      <feOffset
+         id="feOffset1388"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite1390"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -692,7 +725,7 @@
      inkscape:cx="423.49961"
      inkscape:cy="522.2629"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1187"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -727,6 +760,11 @@
        style="overflow:visible"
        id="g1187"
        transform="matrix(0.26458333,0,0,0.26458333,81.765941,101.08211)">
+      <path
+         id="polygon1211"
+         style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;filter:url(#filter1366)"
+         d="m 68.563136,75.506109 c -1.00409,-0.32527 -34.64035,10.03482 -50.71289,14.94921 l -0.92187,1.92579 -40.79102,37.068361 -0.0351,0.01 c -0.0392,0.0414 -0.0724,0.0817 -0.11133,0.12305 l -0.12891,0.11719 0.0312,-0.01 c -26.01185,27.71925 -7.61971,47.66774 0.74219,56.52344 l -0.14453,-0.0371 110.59765,96.54101 0.0566,-0.0488 0.30468,0.26757 -0.11328,-0.13281 0.625,-0.83398 111.537114,-95.70899 -0.26758,0.0898 c 3.51235,-3.31582 6.5983,-6.97825 8.93946,-10.97071 l 0.0254,0.0332 c 7.41341,-11.99291 6.6468,-25.28386 -3.3711,-39.22657 l 0.0117,0.004 -0.0273,-0.0273 -38.36914,-38.720711 -0.1543,-0.89257 -41.88281,-19.07032 c -18.53256,-0.67104 -54.835764,-1.63324 -55.839854,-1.97265 z m 18.74805,207.019531 0.0156,0.26758 -0.13868,-0.16211 z"
+         sodipodi:nodetypes="sccccccccccccccccccccccccsscccc" />
       <g
          id="g1209"
          transform="rotate(45,22.201745,114.75715)">
@@ -831,11 +869,6 @@
            d="m 135.9,17.61 60.71,8.52 C 193.37,12.4 183.42,3.54 166.46,0.77 Z"
            id="path3485" />
       </g>
-      <path
-         id="polygon1211"
-         style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;filter:url(#filter1366)"
-         d="m 319.90216,-84.657057 c -1.00409,-0.32527 -34.64035,10.03482 -50.71289,14.94921 l -0.92187,1.92579 -40.79102,37.06836 -0.0351,0.0098 c -0.0392,0.04141 -0.0724,0.08167 -0.11133,0.12305 l -0.12891,0.11719 0.0312,-0.0098 c -26.01185,27.7192499 -7.61971,47.66774 0.74219,56.52344 l -0.14453,-0.03711 110.59765,96.541007 0.0566,-0.0488 0.30468,0.26757 -0.11328,-0.13281 0.625,-0.83398 111.53711,-95.708987 -0.26758,0.08985 c 3.51235,-3.31582 6.5983,-6.97825 8.93946,-10.97071 l 0.0254,0.03321 c 7.41341,-11.9929101 6.6468,-25.28386 -3.3711,-39.22657 l 0.0117,0.0039 -0.0273,-0.02734 -38.36914,-38.72071 -0.1543,-0.89257 -41.88281,-19.07032 c -18.53256,-0.67104 -54.83576,-1.63324 -55.83985,-1.97265 z m 18.74805,207.019527 0.0156,0.26758 -0.13868,-0.16211 z"
-         sodipodi:nodetypes="sccccccccccccccccccccccccsscccc" />
     </g>
   </g>
 </svg>
