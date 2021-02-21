@@ -721,11 +721,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="638.21679"
-     inkscape:cy="628.36725"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="519.11916"
+     inkscape:cy="733.7994"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -733,7 +733,8 @@
      inkscape:window-x="1200"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:snap-text-baseline="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -1017,5 +1018,27 @@
            inkscape:label="logo_part_1" />
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="title">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.78969999999999985px;line-height:0.85;font-family:sans-serif;fill:#25404d;fill-opacity:1;stroke:#ffffff;stroke-width:2.5;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;paint-order:stroke markers fill"
+       x="108.34554"
+       y="198.97464"
+       id="text2874"
+       inkscape:label="large_title"><tspan
+         sodipodi:role="line"
+         id="tspan2872"
+         x="108.34554"
+         y="198.97464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;text-anchor:middle;stroke-width:2.5;fill:#25404d;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;paint-order:stroke markers fill">RUBY BATTLE</tspan><tspan
+         sodipodi:role="line"
+         x="108.34554"
+         y="212.64459"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;text-anchor:middle;stroke-width:2.5;fill:#25404d;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;paint-order:stroke markers fill"
+         id="tspan2876">FOR GLORY</tspan></text>
   </g>
 </svg>
