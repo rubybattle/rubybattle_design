@@ -721,11 +721,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="423.49961"
-     inkscape:cy="522.2629"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="242.65485"
+     inkscape:cy="478.39653"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -741,133 +741,134 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#1e4175;stroke-width:0.264583"
-       id="rect1189"
-       width="196.4431"
-       height="132.03114"
-       x="20.045216"
-       y="64.946495" />
+     id="layer2"
+     inkscape:label="shield" />
+  <g
+     inkscape:label="ruby_logo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
     <g
-       style="overflow:visible"
-       id="g1187"
-       transform="matrix(0.26458333,0,0,0.26458333,81.765941,101.08211)">
-      <path
-         id="polygon1211"
-         style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;filter:url(#filter1366)"
-         d="m 68.563136,75.506109 c -1.00409,-0.32527 -34.64035,10.03482 -50.71289,14.94921 l -0.92187,1.92579 -40.79102,37.068361 -0.0351,0.01 c -0.0392,0.0414 -0.0724,0.0817 -0.11133,0.12305 l -0.12891,0.11719 0.0312,-0.01 c -26.01185,27.71925 -7.61971,47.66774 0.74219,56.52344 l -0.14453,-0.0371 110.59765,96.54101 0.0566,-0.0488 0.30468,0.26757 -0.11328,-0.13281 0.625,-0.83398 111.537114,-95.70899 -0.26758,0.0898 c 3.51235,-3.31582 6.5983,-6.97825 8.93946,-10.97071 l 0.0254,0.0332 c 7.41341,-11.99291 6.6468,-25.28386 -3.3711,-39.22657 l 0.0117,0.004 -0.0273,-0.0273 -38.36914,-38.720711 -0.1543,-0.89257 -41.88281,-19.07032 c -18.53256,-0.67104 -54.835764,-1.63324 -55.839854,-1.97265 z m 18.74805,207.019531 0.0156,0.26758 -0.13868,-0.16211 z"
-         sodipodi:nodetypes="sccccccccccccccccccccccccsscccc" />
+       id="g1016">
       <g
-         id="g1209"
-         transform="rotate(45,22.201745,114.75715)">
-        <polygon
-           style="fill:url(#linearGradient3448);fill-rule:evenodd"
-           clip-rule="evenodd"
-           points="186.849,187.641 198.13,39.95 153.5,130.41 40.38,197.58 "
-           id="polygon3282" />
-        <polygon
-           style="fill:url(#linearGradient1281);fill-rule:evenodd"
-           clip-rule="evenodd"
-           points="187.089,187.54 174.5,100.65 140.209,145.93 "
-           id="polygon3293" />
-        <polygon
-           style="fill:url(#linearGradient1283);fill-rule:evenodd"
-           clip-rule="evenodd"
-           points="187.259,187.54 95.03,180.3 40.87,197.391 "
-           id="polygon3304" />
-        <polygon
-           style="fill:url(#linearGradient1285);fill-rule:evenodd"
-           clip-rule="evenodd"
-           points="41,197.41 64.04,121.93 13.34,132.771 "
-           id="polygon3319" />
-        <polygon
-           style="fill:url(#linearGradient1287);fill-rule:evenodd"
-           clip-rule="evenodd"
-           points="140.2,146.18 119,63.14 58.33,120.01 "
-           id="polygon3334" />
-        <polygon
-           style="fill:url(#linearGradient1289);fill-rule:evenodd"
-           clip-rule="evenodd"
-           points="193.32,64.31 135.97,17.47 120,69.1 "
-           id="polygon3349" />
-        <polygon
-           style="fill:url(#linearGradient1291);fill-rule:evenodd"
-           clip-rule="evenodd"
-           points="166.5,0.77 132.77,19.41 111.49,0.52 "
-           id="polygon3362" />
-        <polygon
-           style="fill:url(#linearGradient1293);fill-rule:evenodd"
-           clip-rule="evenodd"
-           points="0,158.09 14.13,132.32 2.7,101.62 "
-           id="polygon3375" />
+         style="overflow:visible"
+         id="g1187"
+         transform="matrix(0.26458333,0,0,0.26458333,81.765941,101.08211)">
         <path
-           style="fill:#ffffff;fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 1.94,100.65 11.5,32.62 49.97,-11.211 57.05,-53.02 L 136.56,17.9 111.209,0 68.109,16.13 C 54.53,28.76 28.18,53.75 27.23,54.22 26.29,54.7 9.83,85.81 1.94,100.65 Z"
-           id="path3377" />
-        <path
-           style="fill:url(#linearGradient1295);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 42.32,42.05 c 29.43,-29.18 67.37,-46.42 81.93,-31.73 14.551,14.69 -0.88,50.39 -30.31,79.56 -29.43,29.17 -66.9,47.36 -81.45,32.67 -14.56,-14.68 0.4,-51.33 29.83,-80.5 z"
-           id="path3400" />
-        <path
-           style="fill:url(#linearGradient1297);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 41,197.38 22.86,-75.72 75.92,24.39 C 112.33,171.79 81.8,193.55 41,197.38 Z"
-           id="path3413" />
-        <path
-           style="fill:url(#linearGradient1299);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 120.56,68.89 19.49,77.2 C 162.98,121.98 183.56,96.06 193.639,64 Z"
-           id="path3424" />
-        <path
-           style="fill:url(#linearGradient1301);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 193.44,64.39 c 7.8,-23.54 9.6,-57.31 -27.181,-63.58 l -30.18,16.67 z"
-           id="path3435" />
-        <path
-           style="fill:#9e1209;fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 0,157.75 c 1.08,38.851 29.11,39.43 41.05,39.771 L 13.47,133.11 Z"
-           id="path3437" />
-        <path
-           style="fill:url(#radialGradient1303);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 120.669,69.01 c 17.62,10.83 53.131,32.58 53.851,32.98 1.119,0.63 15.31,-23.93 18.53,-37.81 z"
-           id="path3448" />
-        <path
-           style="fill:url(#radialGradient1305);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 63.83,121.66 30.56,58.96 c 18.07,-9.8 32.22,-21.74 45.18,-34.53 z"
-           id="path3459" />
-        <path
-           style="fill:url(#linearGradient1307);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 13.35,133.19 -4.33,51.56 c 8.17,11.16 19.41,12.13 31.2,11.26 -8.53,-21.23 -25.57,-63.68 -26.87,-62.82 z"
-           id="path3472" />
-        <path
-           style="fill:url(#linearGradient1309);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           clip-rule="evenodd"
-           d="m 135.9,17.61 60.71,8.52 C 193.37,12.4 183.42,3.54 166.46,0.77 Z"
-           id="path3485" />
+           id="polygon1211"
+           style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;filter:url(#filter1366)"
+           d="m 68.563136,75.506109 c -1.00409,-0.32527 -34.64035,10.03482 -50.71289,14.94921 l -0.92187,1.92579 -40.79102,37.068361 -0.0351,0.01 c -0.0392,0.0414 -0.0724,0.0817 -0.11133,0.12305 l -0.12891,0.11719 0.0312,-0.01 c -26.01185,27.71925 -7.61971,47.66774 0.74219,56.52344 l -0.14453,-0.0371 110.59765,96.54101 0.0566,-0.0488 0.30468,0.26757 -0.11328,-0.13281 0.625,-0.83398 111.537114,-95.70899 -0.26758,0.0898 c 3.51235,-3.31582 6.5983,-6.97825 8.93946,-10.97071 l 0.0254,0.0332 c 7.41341,-11.99291 6.6468,-25.28386 -3.3711,-39.22657 l 0.0117,0.004 -0.0273,-0.0273 -38.36914,-38.720711 -0.1543,-0.89257 -41.88281,-19.07032 c -18.53256,-0.67104 -54.835764,-1.63324 -55.839854,-1.97265 z m 18.74805,207.019531 0.0156,0.26758 -0.13868,-0.16211 z"
+           sodipodi:nodetypes="sccccccccccccccccccccccccsscccc" />
+        <g
+           id="g1209"
+           transform="rotate(45,22.201745,114.75715)">
+          <polygon
+             style="fill:url(#linearGradient3448);fill-rule:evenodd"
+             clip-rule="evenodd"
+             points="153.5,130.41 40.38,197.58 186.849,187.641 198.13,39.95 "
+             id="polygon3282" />
+          <polygon
+             style="fill:url(#linearGradient1281);fill-rule:evenodd"
+             clip-rule="evenodd"
+             points="140.209,145.93 187.089,187.54 174.5,100.65 "
+             id="polygon3293" />
+          <polygon
+             style="fill:url(#linearGradient1283);fill-rule:evenodd"
+             clip-rule="evenodd"
+             points="40.87,197.391 187.259,187.54 95.03,180.3 "
+             id="polygon3304" />
+          <polygon
+             style="fill:url(#linearGradient1285);fill-rule:evenodd"
+             clip-rule="evenodd"
+             points="13.34,132.771 41,197.41 64.04,121.93 "
+             id="polygon3319" />
+          <polygon
+             style="fill:url(#linearGradient1287);fill-rule:evenodd"
+             clip-rule="evenodd"
+             points="58.33,120.01 140.2,146.18 119,63.14 "
+             id="polygon3334" />
+          <polygon
+             style="fill:url(#linearGradient1289);fill-rule:evenodd"
+             clip-rule="evenodd"
+             points="120,69.1 193.32,64.31 135.97,17.47 "
+             id="polygon3349" />
+          <polygon
+             style="fill:url(#linearGradient1291);fill-rule:evenodd"
+             clip-rule="evenodd"
+             points="111.49,0.52 166.5,0.77 132.77,19.41 "
+             id="polygon3362" />
+          <polygon
+             style="fill:url(#linearGradient1293);fill-rule:evenodd"
+             clip-rule="evenodd"
+             points="2.7,101.62 0,158.09 14.13,132.32 "
+             id="polygon3375" />
+          <path
+             style="fill:#ffffff;fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 1.94,100.65 11.5,32.62 49.97,-11.211 57.05,-53.02 L 136.56,17.9 111.209,0 68.109,16.13 C 54.53,28.76 28.18,53.75 27.23,54.22 26.29,54.7 9.83,85.81 1.94,100.65 Z"
+             id="path3377" />
+          <path
+             style="fill:url(#linearGradient1295);fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 42.32,42.05 c 29.43,-29.18 67.37,-46.42 81.93,-31.73 14.551,14.69 -0.88,50.39 -30.31,79.56 -29.43,29.17 -66.9,47.36 -81.45,32.67 -14.56,-14.68 0.4,-51.33 29.83,-80.5 z"
+             id="path3400" />
+          <path
+             style="fill:url(#linearGradient1297);fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 41,197.38 22.86,-75.72 75.92,24.39 C 112.33,171.79 81.8,193.55 41,197.38 Z"
+             id="path3413" />
+          <path
+             style="fill:url(#linearGradient1299);fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 120.56,68.89 19.49,77.2 C 162.98,121.98 183.56,96.06 193.639,64 Z"
+             id="path3424" />
+          <path
+             style="fill:url(#linearGradient1301);fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 193.44,64.39 c 7.8,-23.54 9.6,-57.31 -27.181,-63.58 l -30.18,16.67 z"
+             id="path3435" />
+          <path
+             style="fill:#9e1209;fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 0,157.75 c 1.08,38.851 29.11,39.43 41.05,39.771 L 13.47,133.11 Z"
+             id="path3437" />
+          <path
+             style="fill:url(#radialGradient1303);fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 120.669,69.01 c 17.62,10.83 53.131,32.58 53.851,32.98 1.119,0.63 15.31,-23.93 18.53,-37.81 z"
+             id="path3448" />
+          <path
+             style="fill:url(#radialGradient1305);fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 63.83,121.66 30.56,58.96 c 18.07,-9.8 32.22,-21.74 45.18,-34.53 z"
+             id="path3459" />
+          <path
+             style="fill:url(#linearGradient1307);fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 13.35,133.19 -4.33,51.56 c 8.17,11.16 19.41,12.13 31.2,11.26 -8.53,-21.23 -25.57,-63.68 -26.87,-62.82 z"
+             id="path3472" />
+          <path
+             style="fill:url(#linearGradient1309);fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             clip-rule="evenodd"
+             d="m 135.9,17.61 60.71,8.52 C 193.37,12.4 183.42,3.54 166.46,0.77 Z"
+             id="path3485" />
+        </g>
       </g>
     </g>
   </g>
